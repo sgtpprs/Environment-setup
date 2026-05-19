@@ -1,3 +1,7 @@
+# This is me creating a new branch and editing read me
+
+i am checking branch protection
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
